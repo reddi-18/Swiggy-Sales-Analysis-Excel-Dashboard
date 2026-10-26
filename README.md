@@ -50,10 +50,6 @@ This project focuses on transforming raw food delivery data into meaningful busi
 
 The objective is to make sales performance easier to understand through an interactive dashboard that supports business monitoring, trend identification, and data-driven decision-making.
 
-## 📷 Dashboard Preview
-
-![Swiggy Sales Dashboard](<img width="1235" height="697" alt="image" src="https://github.com/user-attachments/assets/8327e719-1a93-4114-aa4a-eb3543955fca" />
-)
 
 ## 🚀 How to Use
 
